@@ -36,7 +36,7 @@ A file inclusion vulnerability was identified in the `page` parameter.
 
 📸 **Result:** Sensitive system files were disclosed.
 
-![LFI passwd](screenshots/lfi-passwd.png)
+https://github.com/Salik921/Web-LFI-Security-Testing/blob/2f9771524786e68b5101ee65b13619aaca8aae4b/screenshots/Screenshot%202026-01-04%20114543.png
 
 ---
 
