@@ -59,7 +59,7 @@ https://github.com/Salik921/Web-LFI-Security-Testing/blob/b6f70c7a3455174863cd62
 
 📸 **Result:** Payload execution confirmed through LFI.
 
-![Burp User-Agent Injection](screenshots/burp-user-agent.png)
+https://github.com/Salik921/Web-LFI-Security-Testing/blob/20e26603cf6816b83739e6271299a024bc9d4ded/screenshots/Screenshot%202026-01-04%20120837.png
 
 ---
 
