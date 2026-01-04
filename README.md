@@ -68,7 +68,7 @@ After triggering the injected payload via LFI, a reverse shell was successfully 
 
 📸 **Result:** Shell access achieved.
 
-![Reverse Shell](screenshots/reverse-shell.png)
+https://github.com/Salik921/Web-LFI-Security-Testing/blob/5be102a6955e826804dac009d9f3d608d71f5d77/screenshots/Screenshot%202026-01-04%20120311.png
 
 ---
 
@@ -102,7 +102,6 @@ Do not attempt these techniques on systems you do not own or have explicit permi
 
 ---
 
-## 👤 Author
 **Salik Karimkhan**  
 Cybersecurity | Penetration Testing
 
