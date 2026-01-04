@@ -48,7 +48,7 @@ Using directory traversal, additional files were accessed:
 
 📸 **Result:** PHP version and environment variables were exposed.
 
-https://github.com/Salik921/Web-LFI-Security-Testing/blob/d6fbbcb190301e0d2de8f1b6a83a5098c1e90fed/screenshots/Screenshot%202026-01-04%20114316.png
+https://github.com/Salik921/Web-LFI-Security-Testing/blob/b6f70c7a3455174863cd62bbd522ae5c3204d15c/screenshots/Screenshot%202026-01-04%20114316.png
 
 ---
 
